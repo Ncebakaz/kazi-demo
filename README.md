@@ -1,2 +1,3 @@
-# kazi-demo
+
+kazi-demo
 Demo for Github intro
